@@ -1,6 +1,7 @@
+#A project to see how difficult it is to write code to solve sudoku puzzles without using any outside help, tutorials, tips or tricks from the internet.
+#Also to make it more interesting, no using of any modules (except "copy")
+
 import copy
-
-
 sudoku = [
 [0, 0, 2, 0, 3, 0, 4, 0, 6],
 [0, 0, 6, 2, 0, 0, 9, 3, 0],
